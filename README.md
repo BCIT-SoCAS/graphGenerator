@@ -56,12 +56,16 @@ Now, below we provide some example questions you can ask students during class.
 
 **1.  List the vertices in G**
 Hint:  A vertex (plural: vertices) is a point or a node.
+
 **2. List the edges in G**
 Hint: An edge is an unordered pair of vertices.
+
 **3. Find a path from node X to Y**
 Hint: A path is a walk that doesn’t repeat vertices
+
 **4. Find a cycle in G**
 Hint: A cycle is a path that begins and ends at the same vertex
+
 **5. Traverse all nodes in G**
 Hint: Use [DFS](https://www.baeldung.com/cs/depth-first-search-intro) or [BFS](https://www.baeldung.com/cs/graph-algorithms-bfs-dijkstra)
 
@@ -69,11 +73,15 @@ Hint: Use [DFS](https://www.baeldung.com/cs/depth-first-search-intro) or [BFS](h
 
 **1.  Is the graph a tree? if not, find a cycle.**
 Hint: A tree is simply a graph with no cycles.
+
 **2. Determine whether or not the graph is planar.**
 Hint: A planar graph is a graph that we can draw without any of the edges crossing.
+
 **3. Does the graph have a spanning tree? If yes, find Minimum Spanning Tree.**
 Hint: Every finite connected graph has a spanning tree. A minimum spanning tree is a spanning tree with the smallest total weight of all spanning trees.
+
 **4. Is the graph a bipartite graph?**
 Hint: A bipartite graph, also called a bigraph, is a set of vertices decomposed into two disjoint sets such that no two vertices within the same set are adjacent.
+
 **5. Find a maximum matching in a graph.**
 Hint: A maximum matching (also known as maximum-cardinality matching) is a matching that contains the largest possible number of edges.
