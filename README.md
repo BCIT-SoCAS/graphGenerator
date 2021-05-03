@@ -17,7 +17,7 @@ It should come with Python - if the command above doesn't work, install it by fo
 https://pip.pypa.io/en/stable/installing/
 Once you'll have both of these, please download the [main.py](https://raw.githubusercontent.com/BCIT-SoCAS/graphGenerator/main/main.py) and [requirements.txt](https://raw.githubusercontent.com/BCIT-SoCAS/graphGenerator/main/requirements.txt) files into one folder.
 
-Go then to this folder and run the following command:
+Go then to the folder that you downloaded both files and run the following command:
 
     pip install -r requirements.txt
 
